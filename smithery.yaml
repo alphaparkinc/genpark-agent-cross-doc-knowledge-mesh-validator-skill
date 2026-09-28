@@ -1,0 +1,6 @@
+name: genpark-agent-cross-doc-knowledge-mesh-validator-skill
+version: 1.0.0
+description: Multi-document enterprise knowledge mesh synthesizer detecting contradictions, outdated spec clauses, and missing dependencies across PRDs, RFCs, and wikis
+command: python
+args:
+  - mcp_server.py
